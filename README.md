@@ -1,1 +1,1 @@
-# Data-Structures-and-Algorithms-for-Placements
+# Data Structures and Algorithms for Placements
